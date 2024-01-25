@@ -6,15 +6,15 @@ Dive into assignments reinforcing theory and projects applying practical skills.
 
 This repository is organized to showcase my work throughout the course, and it will be regularly updated with new assignments and projects.
 
-## Course Advisor: Dr. Kushal Shah [LinkedIn Profile](https://www.linkedin.com/in/kushal-shah-95b9a3b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## Course Advisor: Dr. Kushal Shah [Profile](https://www.linkedin.com/in/kushal-shah-95b9a3b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Table of Contents
   - Graphs
   - Trees
-  - Uninformed Search
+  - Uninformed Search Strategies
       - BFS
       - DFS
-  - Informed Search
+  - Informed Search Strategies
       - GBFS
       - A Star
   - Alpha-Beta Pruning
@@ -35,6 +35,6 @@ This repository is organized to showcase my work throughout the course, and it w
 
 ## About the Course
 
-This course covers various aspects of search engines, information retrieval, and related topics. It includes theoretical concepts as well as hands-on assignments and projects to deepen understanding and practical skills.
+This course covers various aspects of Classical AI. It includes theoretical concepts as well as hands-on assignments and projects to deepen understanding and practical skills.
 
 I cordially invite you to explore the codebase and give your valuable feedback and suggestions.
